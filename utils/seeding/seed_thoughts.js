@@ -1,19 +1,19 @@
 const { User, Thought } = require('../../models');
 
 const thoughtData = [
-    "Here's a cool thought...",
-    "Thoughts are the words of our minds.",
-    "You'll never guess what happened to me today...",
-    "I was thinking the other day that...",
-    "I just had a random thought. Has anyone looked into...",
+    "Sometimes I wonder about the stars and their stories.",
+    "Do cats think about space travel?",
+    "Yesterday's adventure was like a scene from a movie.",
+    "If music could paint, I wonder what the colors would be like.",
+    "What if our dreams are just unexplored realities?"...",
 ];
 
 const userData = [
-    'ajackson',
-    'kitty123',
-    'nclark',
-    'daniel444',
-    'robert23'
+    'mwilson',
+    'cchanter',
+    'mike52',
+    'lutruth',
+    'brianva73'
 ];
 
 const createThoughts = async () => {

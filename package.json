@@ -1,0 +1,31 @@
+{
+  "name": "friendzone-engine",
+  "version": "1.0.0",
+  "description": "A Social Network API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server",
+    "dev": "nodemon index",
+    "seed": "node utils/seeding/seed"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.10",
+    "express": "^4.17.1",
+    "jest": "^29.7.0",
+    "mongoose": "^7.6.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Domj1204/FriendZone-Engine.git"
+  },
+  "author": "Domonic Jennings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Domj1204/FriendZone-Engine/issues"
+  },
+  "homepage": "https://github.com/Domj1204/FriendZone-Engine#readme"
+}

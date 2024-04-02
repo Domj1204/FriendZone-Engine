@@ -2,25 +2,25 @@ const { User } = require('../../models');
 
 const userData = [
     {
-        "username": 'ajackson',
-        "email": 'ajackson@gmail.com'
+        "username": 'mwilson',
+        "email": 'mwilson@gmail.com'
         
     },
     {
-        "username": 'kitty123',
-        "email": 'kittylee@gmail.com'
+        "username": 'cchanter',
+        "email": 'christianc@gmail.com'
     },
     {
-        "username": 'nclark',
-        "email": 'nicoleclark@outlook.com'
+        "username": 'mike52',
+        "email": 'mikejamison@outlook.com'
     },
     {
-        "username": 'daniel444',
-        "email": 'viadaniel@yahoo.com'
+        "username": 'lutruth',
+        "email": 'luthertruth@yahoo.com'
     },
     {
-        "username": 'robert23',
-        "email": 'rja23@hotmail.com'
+        "username": 'brianva73',
+        "email": 'bva73@hotmail.com'
     }
 ];
 

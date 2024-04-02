@@ -18,7 +18,7 @@ The framework of this application is built on Express.js for route management, e
   
 ## Walkthrough Video 
 Click on the following link to view a walkthrough video that highlights the usage of the application:
-[NoSql Social Network API](https://drive.google.com/file/d/1FRWig8H5I-Dkgp3k34m1gHoTL_cg_Xg5/view?pli=1)
+[Friendzone drive](https://drive.google.com/file/d/1HLnGckwzNeZBGGVq2-2IZ1ZSBLrA3mqc/view)
 
 ## Installation 
 Refer to the documentation in the [MongoDB](https://www.mongodb.com/docs/manual/installation/) website for guidance on installing and setting up MongoDB. 
@@ -40,7 +40,7 @@ This project requires the following npm package dependencies:
 
 ### User API Routes
 The animation gif below shows the responses for the `User` API routes.  
-![Animation Gif of User API Routes](./Assets/user_api.gif)  
+![User Routes](Assets/Screenshot 2024-04-01 at 23.56.49.png)  
 
 Supported API: 
 - `getUsers`: returns all the existing User documents in the collection 
@@ -53,7 +53,7 @@ Supported API:
 
 ### Thought API Routes
 The animation gif below shows the responses for the `Thought` API routes.  
-![Animation Gif of Thought API Routes](./Assets/thought_api.gif)  
+![Animation Gif of Thought API Routes](./Assets/Assets/Untitled design.mp4)  
 
 Available API Endpoints:
 - getThoughts: Retrieves all thoughts from the database.

@@ -5,7 +5,7 @@ const thoughtData = [
     "Do cats think about space travel?",
     "Yesterday's adventure was like a scene from a movie.",
     "If music could paint, I wonder what the colors would be like.",
-    "What if our dreams are just unexplored realities?"...",
+    "What if our dreams are just unexplored realities?...",
 ];
 
 const userData = [

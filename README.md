@@ -39,8 +39,6 @@ This project requires the following npm package dependencies:
 ## Usage 
 
 ### User API Routes
-The animation gif below shows the responses for the `User` API routes.  
-![User Routes](Assets/Screenshot 2024-04-01 at 23.56.49.png)  
 
 Supported API: 
 - `getUsers`: returns all the existing User documents in the collection 
@@ -52,8 +50,6 @@ Supported API:
 - `deleteFriend`: remove a friend from a user's friend list
 
 ### Thought API Routes
-The animation gif below shows the responses for the `Thought` API routes.  
-![Animation Gif of Thought API Routes](./Assets/Assets/Untitled design.mp4)  
 
 Available API Endpoints:
 - getThoughts: Retrieves all thoughts from the database.
